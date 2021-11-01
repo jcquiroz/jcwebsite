@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-11-01T19:31:39-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "JCQuiroz",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\nThis is my new website, it’s going to be awesome!\n\n\n\n",
+      "last_modified": "2021-11-01T19:31:40-03:00"
+    }
+  ],
+  "collections": []
+}
