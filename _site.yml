@@ -1,18 +1,22 @@
 name: "website_sc09"
-title: "IFOP-DER"
+title: "|"
+theme: theme.css
 description: |
   IFOP-DER
 output_dir: "docs"
 navbar:
   logo:
-    image: images/logo.png
+    image: images/logo_fish.png
     href: https://www.rstudio.com
   search: true
-  right:
+  left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+  right:
+    - icon: fab fa-github
+      href: https://jcquiroz.github.io/jcwebsite
 output: distill::distill_article
 
 
